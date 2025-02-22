@@ -1,4 +1,4 @@
-# STOP SHORT Sports Bar Web App
+# STOP SHOT Sports Bar Web App
 
 A web app for a sports bar based in the Philippines. It's features include reservations, menu viewing, payment system, etc.
 
